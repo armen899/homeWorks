@@ -1,0 +1,15 @@
+E:\homeWorks\HomeWork5\Task14\bin\Debug\net8.0\Task14.exe
+E:\homeWorks\HomeWork5\Task14\bin\Debug\net8.0\Task14.deps.json
+E:\homeWorks\HomeWork5\Task14\bin\Debug\net8.0\Task14.runtimeconfig.json
+E:\homeWorks\HomeWork5\Task14\bin\Debug\net8.0\Task14.dll
+E:\homeWorks\HomeWork5\Task14\bin\Debug\net8.0\Task14.pdb
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.AssemblyInfoInputs.cache
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.AssemblyInfo.cs
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.csproj.CoreCompileInputs.cache
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.sourcelink.json
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.dll
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\refint\Task14.dll
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.pdb
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\Task14.genruntimeconfig.cache
+E:\homeWorks\HomeWork5\Task14\obj\Debug\net8.0\ref\Task14.dll
