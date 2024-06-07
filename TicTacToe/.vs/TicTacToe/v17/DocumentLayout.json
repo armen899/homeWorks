@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\homeWorks\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1407BBE-B9F2-4A7C-803D-18812787E930}|TicTacToe\\TicTacToe.csproj|e:\\homeworks\\tictactoe\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1407BBE-B9F2-4A7C-803D-18812787E930}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\homeWorks\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Program.cs",
+              "ToolTip": "E:\\homeWorks\\TicTacToe\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "TicTacToe\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:36:25.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
