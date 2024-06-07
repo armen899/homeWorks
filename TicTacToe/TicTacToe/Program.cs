@@ -124,10 +124,7 @@
                     {
                         for (int j = 0; j <= n - 3; j++)
                         {
-                            if (
-                                ch[i][j] == currentPlayerChar &&
-                                ch[i + 1][j + 1] == currentPlayerChar &&
-                                ch[i + 2][j + 2] == currentPlayerChar)
+                            if (ch[i][j] == currentPlayerChar && ch[i + 1][j + 1] == currentPlayerChar && ch[i + 2][j + 2] == currentPlayerChar)
                             {
                                 winner = true;
                                 break;
@@ -143,10 +140,7 @@
                     {
                         for (int j = 0; j <= n - 3; j++)
                         {
-                            if (
-                                ch[i][j] == currentPlayerChar &&
-                                ch[i - 1][j + 1] == currentPlayerChar &&
-                                ch[i - 2][j + 2] == currentPlayerChar)
+                            if (ch[i][j] == currentPlayerChar && ch[i - 1][j + 1] == currentPlayerChar && ch[i - 2][j + 2] == currentPlayerChar)
                             {
                                 winner = true;
                                 break;
