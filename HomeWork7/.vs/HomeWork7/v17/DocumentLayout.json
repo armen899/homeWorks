@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\homeWorks\\HomeWork7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD278364-619A-42FE-B04A-0BBD6E5262CD}|Task11\\Task11.csproj|e:\\homeworks\\homework7\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD278364-619A-42FE-B04A-0BBD6E5262CD}|Task11\\Task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED70E62-FF61-4BBD-A54E-F8269F221A92}|Task10\\Task10.csproj|e:\\homeworks\\homework7\\task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED70E62-FF61-4BBD-A54E-F8269F221A92}|Task10\\Task10.csproj|solutionrelative:task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{236EF38E-357D-4BCC-B554-C329057B0E01}|Task3\\Task3.csproj|e:\\homeworks\\homework7\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{236EF38E-357D-4BCC-B554-C329057B0E01}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +44,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Task11\\Program.cs",
+              "ToolTip": "E:\\homeWorks\\HomeWork7\\Task11\\Program.cs",
+              "RelativeToolTip": "Task11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:32:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task10\\Program.cs",
+              "RelativeDocumentMoniker": "Task10\\Program.cs",
+              "ToolTip": "E:\\homeWorks\\HomeWork7\\Task10\\Program.cs",
+              "RelativeToolTip": "Task10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:32:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "E:\\homeWorks\\HomeWork7\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T20:12:39.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Task5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:12:00.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:12:00.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task6\\Program.cs",
               "RelativeDocumentMoniker": "Task6\\Program.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Task6\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:11:18.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:11:18.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task7\\Program.cs",
               "RelativeDocumentMoniker": "Task7\\Program.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Task7\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:09:25.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:09:25.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\homeWorks\\HomeWork7\\Task8\\Program.cs",
               "RelativeDocumentMoniker": "Task8\\Program.cs",
@@ -94,8 +125,7 @@
               "RelativeToolTip": "Task8\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:08:15.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:08:15.13Z"
             }
           ]
         }

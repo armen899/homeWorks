@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            string[] str = [ "Rock", "Paper", "Scissors" ];
+            string[] str = new String[3] { "Rock", "Paper", "Scissors" };
             Console.WriteLine("User input Rock, Paper, Scissors");
+
             string userInput = Console.ReadLine();
 
             Random rand = new Random();
